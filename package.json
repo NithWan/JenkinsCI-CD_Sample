@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo "Error: no test specified"",
+    "test": "echo 'Error: no test specified' ",
     "lint": "eslint **/*.js -c config.eslintrc -f checkstyle apps/**/* > eslint.xml"
   },
   "keywords": [],
   "author": "nithin achary",
   "license": "ISC",
   "dependencies": {
-    "eslint" : "*"
-  } 
+    "eslint": "*"
+  }
 }
