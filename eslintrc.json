@@ -1,0 +1,14 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 5,
+        "sourceType": "script",
+        "ecmaFeatures": {}
+    },
+    "rules": {
+        "no-undefined": 2,
+        "semi": 2
+    },
+    "env": {
+        "node": true
+    }
+}
