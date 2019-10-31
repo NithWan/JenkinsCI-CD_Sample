@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'Error: no test specified' "
+    "lint": "./node_modules/.bin/eslint" 
   },
   "keywords": [],
   "author": "nithin achary",
