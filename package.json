@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'Error: no test specified' ",
-    "lint": "eslint -f checkstyle index.js> eslint.xml"
+    "lint": "eslint -f checkstyle **/*.js> eslint.xml"
   },
   "keywords": [],
   "author": "nithin achary",
