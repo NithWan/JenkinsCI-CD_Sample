@@ -1,2 +1,2 @@
-console.log("from github sample");
+console.log("from github sample")
 
