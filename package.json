@@ -12,6 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "*"
-    "eslint-html-reporter": "*"
   }
 }
