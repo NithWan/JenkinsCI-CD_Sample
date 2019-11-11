@@ -1,5 +1,5 @@
 exports.handler = function (event, context) {
-	console.log(event);
-	context.succeed('hello ' + event.name);
+	console.log(s)
+	context.succeed('hello ' + event.name)
 };
 
